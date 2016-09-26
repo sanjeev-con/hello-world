@@ -1,2 +1,2 @@
 # hello-world
-beginner's code
+beginner's code for git hub
